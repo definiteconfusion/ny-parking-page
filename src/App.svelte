@@ -18,7 +18,7 @@
   <div class="main-content-container">
     <h1
       class="main-content-title"
-    ><b>Dispute a Ticket</b></h1>
+    ><b>Plea Guilty</b></h1>
     <div class="main-content-dispute-options-container">
       <a href="https://i.imgflip.com/51ygax.jpg"><div class="main-content-dispute-option">
         Online
