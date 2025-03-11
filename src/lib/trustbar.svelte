@@ -70,7 +70,7 @@
       </div>
     </div>
     <div class="dropdown-content-item">
-      <img src="https://cdn.jsdelivr.net/gh/definiteconfusion/ny-parking-page@main/src/assets/vpn.svg" class="dropdown-content-image" alt="Assured Workload" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1DFkX_XGikmZN3Dl-ANAg_WU5ptnmY5xfg&s" class="dropdown-content-image" alt="Assured Workload" />
       <div class="dropdown-content">
         <b>Secure ny.org websites use HTTPS</b>
         <p>A lock icon or https:// means you’ve safely connected to a ny.org website. Share sensitive information only on official, secure websites</p>
