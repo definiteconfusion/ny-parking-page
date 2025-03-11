@@ -11,7 +11,7 @@
   </header>
   <header class="main-header-container">
       <div class="main-header-state-logo-container">
-        <img src="src/assets/nys-logo.png" alt="New York State Logo" class="main-header-logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/New_York_State_wordmark.svg/2560px-New_York_State_wordmark.svg.png" alt="New York State Logo" class="main-header-logo" />
         <p class="main-header-title">Office of Finance</p>
       </div>
   </header>
