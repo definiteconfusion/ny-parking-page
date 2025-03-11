@@ -44,7 +44,7 @@
       user-select: none;
       text-decoration: underline;
       color: #a2a2ff;
-      margin-left: 0.75rem;
+      margin-left: 10px;
   }
 
   .dropdown-content-image{
