@@ -44,7 +44,7 @@
       user-select: none;
       text-decoration: underline;
       color: #a2a2ff;
-      margin-left: 1.25rem;
+      margin-left: 0.75rem;
   }
 
   .dropdown-content-image{
@@ -63,14 +63,14 @@
 {#if showDropdown}
   <div class="dropdown">
       <div class="dropdown-content-item">
-        <img src="src/assets/assured_workload.svg" class="dropdown-content-image" alt="Assured Workload" />
+        <img src="https://cdn.jsdelivr.net/gh/definiteconfusion/ny-parking-page@main/src/assets/assured_workload.svg" class="dropdown-content-image" alt="Assured Workload" />
         <div class="dropdown-content">
           <b>Official websites use .org</b>
           <p>A .org website belongs to a government organization or to a related sponsored organization.</p>
       </div>
     </div>
     <div class="dropdown-content-item">
-      <img src="src/assets/vpn_lock.svg" class="dropdown-content-image" alt="Assured Workload" />
+      <img src="https://cdn.jsdelivr.net/gh/definiteconfusion/ny-parking-page@main/src/assets/vpn.svg" class="dropdown-content-image" alt="Assured Workload" />
       <div class="dropdown-content">
         <b>Secure ny.org websites use HTTPS</b>
         <p>A lock icon or https:// means you’ve safely connected to a ny.org website. Share sensitive information only on official, secure websites</p>
