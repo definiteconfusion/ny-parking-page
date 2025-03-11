@@ -54,7 +54,7 @@
 </style>
 
 <div class="header">
-  <p>An official website of New York State</p>
+  <p>A New York State Website</p>
   <div class="clickable" on:click={toggleDropdown}>
     Here’s how you know ▾
   </div>
@@ -66,7 +66,7 @@
         <img src="https://cdn.jsdelivr.net/gh/definiteconfusion/ny-parking-page@main/src/assets/assured_workload.svg" class="dropdown-content-image" alt="Assured Workload" />
         <div class="dropdown-content">
           <b>Official websites use .org</b>
-          <p>A .org website belongs to a government organization or to a related sponsored organization.</p>
+          <p>A .org website belongs to a government organization or to an organization pretending to be the aforementioned.</p>
       </div>
     </div>
     <div class="dropdown-content-item">
